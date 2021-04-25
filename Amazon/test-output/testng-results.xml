@@ -2,20 +2,20 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-23T11:12:08Z" name="Suite" finished-at="2021-04-23T11:12:19Z" duration-ms="10328">
+  <suite started-at="2021-04-25T17:50:22Z" name="Suite" finished-at="2021-04-25T17:50:34Z" duration-ms="11989">
     <groups>
     </groups>
-    <test started-at="2021-04-23T11:12:08Z" name="Test" finished-at="2021-04-23T11:12:19Z" duration-ms="10328">
+    <test started-at="2021-04-25T17:50:22Z" name="Test" finished-at="2021-04-25T17:50:34Z" duration-ms="11989">
       <class name="com.amazon.qa.testcases.HomePageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@389c4eb1]" started-at="2021-04-23T04:12:08Z" name="setUp" finished-at="2021-04-23T04:12:12Z" duration-ms="3138" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@389c4eb1]" started-at="2021-04-25T10:50:22Z" name="setUp" finished-at="2021-04-25T10:50:25Z" duration-ms="3209" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="searchTextTest()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@389c4eb1]" started-at="2021-04-23T04:12:12Z" name="searchTextTest" finished-at="2021-04-23T04:12:19Z" duration-ms="7174" status="PASS">
+        <test-method signature="searchTextTest()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@389c4eb1]" started-at="2021-04-25T10:50:25Z" name="searchTextTest" finished-at="2021-04-25T10:50:34Z" duration-ms="8762" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchTextTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@389c4eb1]" started-at="2021-04-23T04:12:19Z" name="tearDown" finished-at="2021-04-23T04:12:19Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@389c4eb1]" started-at="2021-04-25T10:50:34Z" name="tearDown" finished-at="2021-04-25T10:50:34Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

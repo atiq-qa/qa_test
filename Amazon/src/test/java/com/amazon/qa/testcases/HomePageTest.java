@@ -41,12 +41,8 @@ public class HomePageTest extends TestBase{
 	{
 		homePage.desiredSearch();
 		homePage.clickSearchButton();
-		//List<WebElement> list = driver.findElements(By.xpath("//span[contains(text(),'Unit Testing Principles')]"));
-		//list.get(0).click();
 		homePage.assetPrice();
 		homePage.clickAddToCart();
-		//List<WebElement> list1 = driver.findElements(By.xpath("//span[@class='a-color-price hlb-price a-inline-block a-text-bold']"));
-		//System.out.println("Asset price after adding to cart: "+list1.get(0).getText());
 		homePage.clickOnProceedToCheckOut();
 		
 	}
