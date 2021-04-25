@@ -6,7 +6,7 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
 
-public class RestAssuredAPITest {
+public class RestAssuredAPITest {  
 
 		@Test
 		public void getRequest()
